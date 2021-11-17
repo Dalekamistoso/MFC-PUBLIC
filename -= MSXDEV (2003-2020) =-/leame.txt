@@ -1,0 +1,45 @@
+========================================================
+=== DrWh0/Dalekamistoso MSX-DEV Complete Compilation ===
+========================================================
+
+Este paquete contiene todas las entradas de juegos 
+enviadas el concurso MSX-DEV.
+
+Los juegos coinciden con la lista oficial de MSX-DEV la
+cual ya está incluida con este archivo.
+
+Características de la colección:
+
+1.- Los juegos están numerados y en orden alfabético.
+
+2.- Todos los nombres con caracteres especiales como 
+    acentos ha sido eliminados por compatibilidad con 
+    todos los idiomas, especialmente los orientales.
+
+3.- Cada zip contiene:
+     - Código fuente (si está disponible)
+     - Manuales (si el autor los escribió)
+     - Etiquetas, adhesivos, etc. (si el autor lo hizo)
+
+4.- He incluido las versiones más recientes de cada 
+    juego disponible, si tienes uno más reciente, por 
+    favor, contacta conmigo.
+
+5.- Todos los juegos que necesitaban parches ya han sido
+    parcheados por mí.
+
+6.- Todos los juegos que solo se lanzaron en forma de 
+    código fuente ya los he compilado yo.
+
+7.- Reemplacé algunos juegos con las versiones mejoradas
+    que fueron lanzadas fuera de plazo.
+
+
+Si necesitas contactar conmigo:
+
+Twitter: https://twitter.com/Dalekamistoso
+Youtube: http://youtube.com/c/CarlosRmsx
+MSX.ORG: https://www.msx.org/users/drwh0 (contact form)
+
+
+
