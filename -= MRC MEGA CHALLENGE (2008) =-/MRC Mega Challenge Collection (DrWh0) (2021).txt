@@ -1,0 +1,28 @@
+============================================
+-= MRC MEGA CHALLENGE COLLECTION BY DRWH0 =-
+============================================
+
+This is a little compilation of all entries from the MRC MEGA Challenge 25th anniversary.
+
+This contest was made by the MSX.ORG team, details are found at:
+
+https://www.msx.org/news/mrc/en/mrc-mega-challenge-shifts-25th-anniversary
+
+Winners:
+
+01 Montana John and the Templar's Treasure (Infinite)
+02 3072 (David Heremans)
+03 LEDA (John Hassink and Paco Santos Ramírez)
+
+All entries has been renamed and ordered with some minor tweaks, fixes & adjustments made by DrWh0 (11/11/2021).
+
+Patched games:
+
+LEDA           -> Modified boot files, now CTRL at boot is not needed (used ONEDRIVE)
+Ray Trace Demo -> Removed keyclick
+Evolution 2    -> Fixed (not booting under MSX-DOS2)
+
+All games has been injected in DSK images from raw files where it was applicable (.rom files are excluded)
+
+Contact: https://www.twitter.com/Dalekamistoso
+
